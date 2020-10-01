@@ -58,5 +58,8 @@ export let cats = [
     'https://media.tenor.com/images/bb33cc1eaafa266ac1092ecff7c1c85d/tenor.gif',
     'https://media.giphy.com/media/WsjD6gvYnTDIKe7P4f/giphy.gif',
     'https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif',
+    'https://media.giphy.com/media/WYEWpk4lRPDq0/giphy.gif',
+    'https://media.giphy.com/media/Bz1Ul5EbyZxWo/giphy.gif',
+    'https://media.giphy.com/media/BMaE0wCQhcJj2/giphy.gif'
     'https://media.giphy.com/media/anfRDz1ebNlza/giphy-downsized.gif'
 ];
