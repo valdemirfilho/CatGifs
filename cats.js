@@ -72,5 +72,6 @@ export let cats = [
     'https://media.tenor.com/images/800a46ca3a946f908b8a5c7cd2eabe35/tenor.gif',
     'https://media.giphy.com/media/nR4L10XlJcSeQ/giphy.gif',
     'https://media.tenor.com/images/bbac2594edd848f3b1a58bdf87b5bb7b/tenor.gif',
-    'https://thumbs.gfycat.com/KnobbyImperfectCoypu-small.gif'
+    'https://thumbs.gfycat.com/KnobbyImperfectCoypu-small.gif',
+    'https://media.tenor.com/images/eff22afc2220e9df92a7aa2f53948f9f/tenor.gif'
 ];
